@@ -12,6 +12,8 @@
 		F14454DC221862B800BDEE43 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F14454DA221862B800BDEE43 /* Main.storyboard */; };
 		F14454DE221862B900BDEE43 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F14454DD221862B900BDEE43 /* Assets.xcassets */; };
 		F14454E1221862B900BDEE43 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F14454DF221862B900BDEE43 /* LaunchScreen.storyboard */; };
+		F1BD15442219662300859BD4 /* Concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1BD15432219662300859BD4 /* Concentration.swift */; };
+		F1BD15462219675900859BD4 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1BD15452219675900859BD4 /* Card.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		F14454DD221862B900BDEE43 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F14454E0221862B900BDEE43 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F14454E2221862B900BDEE43 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1BD15432219662300859BD4 /* Concentration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration.swift; sourceTree = "<group>"; };
+		F1BD15452219675900859BD4 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 			children = (
 				F14454E82218646500BDEE43 /* Supporting Files, */,
 				F14454D8221862B800BDEE43 /* ViewController.swift */,
+				F1BD15432219662300859BD4 /* Concentration.swift */,
+				F1BD15452219675900859BD4 /* Card.swift */,
 				F14454DA221862B800BDEE43 /* Main.storyboard */,
 				F14454E2221862B900BDEE43 /* Info.plist */,
 			);
@@ -145,6 +151,8 @@
 			files = (
 				F14454D9221862B800BDEE43 /* ViewController.swift in Sources */,
 				F14454D7221862B800BDEE43 /* AppDelegate.swift in Sources */,
+				F1BD15442219662300859BD4 /* Concentration.swift in Sources */,
+				F1BD15462219675900859BD4 /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

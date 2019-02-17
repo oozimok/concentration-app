@@ -4,4 +4,5 @@
 
 Сайт [http://bestkora.com](http://bestkora.com), содержит русскоязычный конспект данного курса, помогает пройти до конца и выполнить все задания. 
 
--  Лекция 1: [часть 1](https://bestkora.com/IosDeveloper/lektsiya-1-cs193p-fall-2017-vvedenie-v-ios-11-xcode-9-i-swift-4-chast-1/) и [часть 2](https://bestkora.com/IosDeveloper/lektsiya-1-cs193p-fall-2017-vvedenie-v-ios-11-xcode-9-i-swift-4-chast-2/)
+- Лекция 1 [(часть 1)](https://bestkora.com/IosDeveloper/lektsiya-1-cs193p-fall-2017-vvedenie-v-ios-11-xcode-9-i-swift-4-chast-1/) и [(часть 2)](https://bestkora.com/IosDeveloper/lektsiya-1-cs193p-fall-2017-vvedenie-v-ios-11-xcode-9-i-swift-4-chast-2/)
+- [Лекция 2](https://bestkora.com/IosDeveloper/lektsiya-2-cs193p-fall-2017-mvc/)
